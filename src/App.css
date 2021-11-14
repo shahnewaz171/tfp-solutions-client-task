@@ -1,0 +1,12 @@
+::-webkit-input-placeholder { 
+    font-size: 15px;
+}
+  
+:-ms-input-placeholder { 
+    font-size: 15px;
+}
+  
+::placeholder {
+    font-size: 15px;
+    color: rgb(167, 167, 167) !important;
+}
